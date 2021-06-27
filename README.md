@@ -2,7 +2,7 @@ This repository contains system packages, that were removed from newer versions 
 
 ### Installing
 
-Clone this repository as `/opt/drivebadger/config/compat` directory on your Drive Badger persistent partition.
+Clone this repository as `/opt/drivebadger/external/compat` directory on your Drive Badger persistent partition.
 
 Then execute `install.sh` for your version of Kali Linux. If you did it earlier, reexecute it.
 
